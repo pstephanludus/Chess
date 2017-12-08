@@ -1,0 +1,6 @@
+c:\users\asus\documents\visual studio 2015\Projects\Chess\Chess\bin\Debug\Chess.exe.config
+c:\users\asus\documents\visual studio 2015\Projects\Chess\Chess\bin\Debug\Chess.exe
+c:\users\asus\documents\visual studio 2015\Projects\Chess\Chess\bin\Debug\Chess.pdb
+c:\users\asus\documents\visual studio 2015\Projects\Chess\Chess\obj\Debug\Chess.csprojResolveAssemblyReference.cache
+c:\users\asus\documents\visual studio 2015\Projects\Chess\Chess\obj\Debug\Chess.exe
+c:\users\asus\documents\visual studio 2015\Projects\Chess\Chess\obj\Debug\Chess.pdb
